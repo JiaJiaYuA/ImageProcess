@@ -1,1 +1,0 @@
-#include<stadio.h>
